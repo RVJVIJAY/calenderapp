@@ -91,3 +91,28 @@ body {
   padding: 12px;
   border-radius: 5px;
 }
+
+@media (max-width: 480px) {
+  .top-head {
+    font-size: 1.5rem;
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+
+  .calender {
+    width: 95%;
+    margin: 20px auto;
+  }
+
+  .header {
+    padding: 8px;
+  }
+
+  .header button {
+    padding: 6px 10px;
+  }
+
+  .day, .empty {
+    padding: 8px;
+  }
+}
