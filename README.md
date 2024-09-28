@@ -1,11 +1,11 @@
 # 📅 Calendar App
 
-📸 Screenshots
-<img 
-  src="./public/calender.png" 
-  alt="Calendar" 
-  style={{ width: 500, display: 'block', margin: '0 auto' }} 
-/>
+## 📸 Screenshots
+
+<div style="text-align: center;">
+  <img src="./public/calender.png" alt="Calendar" width="500" />
+</div>
+
 
 ## 📚 Table of Contents
 - [Project Overview](#project-overview)
